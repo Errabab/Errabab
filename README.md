@@ -46,7 +46,6 @@ I'm dedicated to the field of system and network administration, with a commitme
 ### 🤝 Connect with Me
 
 
-[GitHub](https://github.com/Errabab)
 [LinkedIn](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
 [X (Twitter)](https://x.com/_jk_29)
 
