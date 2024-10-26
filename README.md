@@ -40,9 +40,9 @@ I'm a dedicated student in system and network administration, focusing on mainta
 ---
 
 ### 🤝 Connect with Me
-s
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Errabab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
-[![X (Twitter)](https://img.shields.io/badge/X-_jk_29-blue?style=for-the-badge&logo=x)](https://x.com/_jk_29)
+
+[LinkedIn](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
+[X (Twitter)](https://x.com/_jk_29)
 
 
 
