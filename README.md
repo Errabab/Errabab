@@ -4,7 +4,7 @@
 
 ---
 
-![Cybersecurity GIF](https://media.giphy.com/media/sq7lz4wHsGzXa/giphy.gif) <!-- Replace with a more relevant GIF if needed -->
+![Cybersecurity GIF](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk) <!-- Replace with a more relevant GIF if needed -->
 
 ---
 
