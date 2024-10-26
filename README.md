@@ -35,14 +35,6 @@ I'm dedicated to the field of system and network administration, with a commitme
 
 ---
 
-### 🚀 Featured Projects
-
-- [🛠️ SIEM Configuration Project](#)  
-- [🔍 Network Security Research](#)  
-- [📡 Real-time System Monitoring Setup](#)  
-
----
-
 ### 🤝 Connect with Me
 
 
