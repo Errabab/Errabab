@@ -26,18 +26,6 @@ I'm a dedicated student in system and network administration, focusing on mainta
 
 </configuration>
 
----
-
-### 💻 Skills
-
-- **System and Network Administration**  
-- **Advanced Network Security**  
-- **SOC Research and Analysis**  
-- **Ethical Hacking & Penetration Testing**  
-- **Real-time System Monitoring and Optimization**  
-- **SIEM Configuration and Security Automation**  
-
----
 
 ### 💻 Skills
 
