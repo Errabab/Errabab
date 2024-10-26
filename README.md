@@ -10,8 +10,8 @@
     ### 📜 About Me
     I'm a dedicated student in system and network administration, focusing on maintaining secure, optimized environments. My skillset spans across cybersecurity, virtualization, and web development, with a strong commitment to delivering reliable and efficient tech solutions.
 
-    ### ⚙️ Configuration
-    <configuration>
+  ### ⚙️ Configuration
+  <configuration>
       🖥️ **Systems Administration**  
       🛡️ **Network Security**  
       🔍 **SOC Researcher**  
@@ -20,17 +20,17 @@
       ⚙️ **SIEM Configuration**  
     </configuration>
 
-    ### 💻 Skills
-    - **System and Network Administration**  
-    - **Advanced Network Security**  
-    - **SOC Research and Analysis**  
-    - **Ethical Hacking & Penetration Testing**  
-    - **Real-time System Monitoring and Optimization**  
-    - **SIEM Configuration and Security Automation**  
+  ### 💻 Skills
+  - **System and Network Administration**  
+  - **Advanced Network Security**  
+  - **SOC Research and Analysis**  
+  - **Ethical Hacking & Penetration Testing**  
+  - **Real-time System Monitoring and Optimization**  
+  - **SIEM Configuration and Security Automation**  
 
-    ### 🤝 Connect with Me
-    [LinkedIn](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)  
-    [X (Twitter)](https://x.com/_jk_29)
+  ### 🤝 Connect with Me
+  [LinkedIn](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)  
+  [X (Twitter)](https://x.com/_jk_29)
   </div>
 
   <div style="flex: 1; text-align: right;">
