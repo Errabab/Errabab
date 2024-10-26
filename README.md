@@ -45,8 +45,5 @@ I'm dedicated to the field of system and network administration, with a commitme
 
 ---
 
-#### Note:
-_This configuration includes Bash modules for secure connections and monitoring:_
 
-```bash
 
