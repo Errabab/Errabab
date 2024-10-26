@@ -43,18 +43,9 @@ I'm a dedicated student in system and network administration, focusing on mainta
 
 [LinkedIn](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
 [X (Twitter)](https://x.com/_jk_29)
+
 ### 💻 Skills
 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**  
-- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS (Amazon Web Services)**  
-- ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) **Kubernetes**  
-- ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**  
-- ![Bash](https://img.icons8.com/color/48/000000/bash.png) **Bash**  
-- ![Linux](https://img.icons8.com/color/48/000000/linux.png) **Linux**  
-- ![PowerShell](https://img.icons8.com/color/48/000000/powershell.png) **PowerShell**  
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**  
-- ![Kali Linux](https://img.icons8.com/color/48/000000/kali-linux.png) **Kali Linux**  
-- ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png) **Visual Studio**  
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**  
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS (Amazon Web Services)**  ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) **Kubernetes**  ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**  ![Bash](https://img.icons8.com/color/48/000000/bash.png) **Bash**  ![Linux](https://img.icons8.com/color/48/000000/linux.png) **Linux**  ![PowerShell](https://img.icons8.com/color/48/000000/powershell.png) **PowerShell**  ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**  ![Kali Linux](https://img.icons8.com/color/48/000000/kali-linux.png) **Kali Linux**   ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png) **Visual Studio**  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**  
 
 
