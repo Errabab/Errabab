@@ -2,7 +2,7 @@
 
 ### Network and Database Administration student skilled in security, virtualization, and web development, with a focus on efficient and robust tech solutions.
 
-![Cybersecurity GIF](https://media.giphy.com/media/sq7lz4wHsGzXa/giphy.gif) <!-- Replace with a more relevant GIF if you find one -->
+
 
 ---
 
