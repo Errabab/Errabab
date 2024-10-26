@@ -34,7 +34,8 @@
   </div>
 
   <div style="flex: 1; text-align: right;">
-    ![Cybersecurity GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFhOWVsNXFrYWhqazV6eXVvamxlazB6dmxwcmg1OGQxcDJucGNuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp) <!-- Replace with a more relevant GIF if needed -->
+    ![Cybersecurity GIF](![image](https://github.com/user-attachments/assets/40edb681-bef6-49e9-b436-a32818fee3d9)
+) <!-- Replace with a more relevant GIF if needed -->
   </div>
 
 </div>
