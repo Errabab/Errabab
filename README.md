@@ -45,9 +45,9 @@ I'm dedicated to the field of system and network administration, with a commitme
 
 ### 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Errabab-black?style=for-the-badge&logo=github)](https://github.com/Errabab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Errabab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
-[![X (Twitter)](https://img.shields.io/badge/X-_jk_29-blue?style=for-the-badge&logo=x)](https://x.com/_jk_29)
+[GitHub](https://img.shields.io/badge/GitHub-Errabab-black?style=for-the-badge&logo=github)](https://github.com/Errabab)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-Errabab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
+[X (Twitter)](https://img.shields.io/badge/X-_jk_29-blue?style=for-the-badge&logo=x)](https://x.com/_jk_29)
 
 ---
 
