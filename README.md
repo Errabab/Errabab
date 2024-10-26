@@ -25,7 +25,7 @@ I'm a dedicated student in system and network administration, focusing on mainta
   ⚙️ **SIEM Configuration**  
 
 </configuration>
-
+---
 
 ### 💻 Skills
 
