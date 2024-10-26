@@ -6,11 +6,6 @@
 
 <div style="display: flex; align-items: center;">
 
-  <div style="flex: 1; padding-right: 20px;">
-    ### 📜 About Me
-    I'm a dedicated student in system and network administration, focusing on maintaining secure, optimized environments. My skillset spans across cybersecurity, virtualization, and web development, with a strong commitment to delivering reliable and efficient tech solutions.
-  </div>
-
   <div style="flex: 1; text-align: right;">
     ![Cybersecurity GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFhOWVsNXFrYWhqazV6eXVvamxlazB6dmxwcmg1OGQxcDJucGNuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp) <!-- Replace with a more relevant GIF if needed -->
   </div>
